@@ -1,3 +1,1 @@
-console.log('hello fuck world')
-'how'
-'sss'
+'ssh work'
